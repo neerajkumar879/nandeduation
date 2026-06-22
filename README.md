@@ -1,5 +1,4 @@
 # nandeduation
-My first repository
 <br>
 Nand Computer Education Centre <br>
 Affiliation- Nand Shikshan Sansthan<br>
